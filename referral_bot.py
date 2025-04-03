@@ -26,7 +26,7 @@ user_data = {}
 daily_bonus_claimed = {}
 
 # Bot token - directly set the token value
-TOKEN = "7706992162:AAGFvTUOMaxno-xvCQowMs9dy6HxJs-MqHc"
+TOKEN = "bot_token_here"
 
 ADMIN_IDS = [7619535371]  # Replace with your actual Telegram user ID
 required_channel = {"username": "junaqk", "id": None}  # Set required channel to junaqk
